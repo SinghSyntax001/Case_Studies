@@ -1,5 +1,5 @@
 # Introduction to Inferential Statistics
-# This project focuses on fundamental concepts of inferential statistics, including hypothesis testing, confidence intervals, and probability distributions. It is designed to help users understand how to draw conclusions about a population from a sample using Python-based data analysis.
+* This project focuses on fundamental concepts of inferential statistics, including hypothesis testing, confidence intervals, and probability distributions. It is designed to help users understand how to draw conclusions about a population from a sample using Python-based data analysis.
 
 # Key Topics:
 * Confidence intervals
