@@ -37,11 +37,3 @@ The dataset contains:
 
 The data file `LRA.csv` is preprocessed for missing values, categorical encoding, and feature scaling.
 
----
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/linear-regression-assumptions.git
-   cd linear-regression-assumptions
